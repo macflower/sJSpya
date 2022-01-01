@@ -1,3 +1,4 @@
+// Object
 const person = Object.create(
     {
         calculateAge() {
